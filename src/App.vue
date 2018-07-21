@@ -6,12 +6,12 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld'
+import HelloWorld from './components/LoadingBars.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    LoadingBars
   }
 }
 </script>
